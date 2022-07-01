@@ -1,0 +1,2 @@
+# domain_die_checker_ping
+domain_die_checker_ping
